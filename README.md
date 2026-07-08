@@ -54,13 +54,11 @@
 
 ## 安装
 
-打开你在用的 agent（Claude Code / Codex / Cursor / OpenClaw 等），告诉它：
+对着你的 agent（Claude Code / Codex / Cursor / OpenClaw…）说一句就行：
 
-```text
-帮我安装这个 skill：https://github.com/SilentFleetKK/zuiti-cuihun
-```
+> 帮我把这个 skill 装上：https://github.com/SilentFleetKK/zuiti-cuihun
 
-或用通用 CLI 安装器：
+或者命令行一条：
 
 ```bash
 npx skills add SilentFleetKK/zuiti-cuihun
